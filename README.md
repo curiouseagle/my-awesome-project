@@ -1,3 +1,3 @@
 # my-awesome-project
 
-Created to learn how to use git
+Project created to learn how to use git.
